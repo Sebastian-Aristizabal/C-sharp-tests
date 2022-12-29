@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1E6fzoKNtY1wnmpJroVZ7TVV1s9X8ijZgpf0M+8LilX/emqesLrr/3duR5PgwZujqZ0V2VX0OdolFSqROOYOLA==",
+  "dgSpecHash": "s3SKjBz60fm3/O8q5NbPAGk/+UxXgTjU4fUsF6oR3RH0Taf01zL8SISeaULbZ3rCeHr/fbSePv+QPO2OJkz5vQ==",
   "success": true,
-  "projectFilePath": "/home/sebastian/code/Sebastian-Aristizabal/C-sharp-tests/C-sharp-tests.csproj",
+  "projectFilePath": "/home/sebastian/code/Sebastian-Aristizabal/C-sharp-tests/exercise1/C-sharp-tests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
